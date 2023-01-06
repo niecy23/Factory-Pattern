@@ -1,0 +1,15 @@
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/macuser/Chanise/Repos/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
