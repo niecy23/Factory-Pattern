@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             //Scope - Creating a new vehicle based on the amount of tires provided
-            Console.WriteLine($"Enter the amount of tires for the vehicle that you want to create.");
+            Console.WriteLine($"Enter the amount of tires for the vehicle that you want to create. (Ex. 2, 4, etc.)");
             var wheelCount = int.Parse(Console.ReadLine());
 
             var vehicle = VehicleFactory.GetVehicle(wheelCount);
